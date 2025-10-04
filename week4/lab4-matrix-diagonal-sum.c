@@ -11,9 +11,9 @@ Author: Ilie Gabuja
 int main(int argc, char *argv[]) {
     int ok = atoi(argv[1]);
     int matrix[ok][ok];
-    for (int i = 0; i < ok; i++) {
-        for (int j = 0; j < ok; j++) {
-            
-        }
+    int i = 0;
+    while (i < ok) {
+        int j = 0;
+        whi
     }
 }
