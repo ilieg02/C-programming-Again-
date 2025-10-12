@@ -18,7 +18,7 @@ int main(int argc, char *argv[])
     {
         li[i] = atoi(argv[i + 2]);
     }
-    void (*pf)(int[], int);
+    void (*pf)(int[], int) = {asc, desc};
     if (strcmp(which, "asc") == 0)
     {
         pf = asc;

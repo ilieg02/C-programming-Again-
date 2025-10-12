@@ -1,4 +1,4 @@
-/*Program: lab5-cal-everything.c
+/*Program: lab5-get-a-country.c
 Author: Ilie Gabuja
 */
 #include <stdio.h>
